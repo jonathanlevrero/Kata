@@ -1,5 +1,7 @@
 
 function DiasRestantes (DiasTranscurridos,DiasTotales) {
-  return (DiasTotales - DiasTranscurridos)}
+    return (DiasTotales - DiasTranscurridos)}
+    
+ 
 
 
