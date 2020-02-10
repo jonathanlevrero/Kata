@@ -5,3 +5,4 @@ function lista(lista){
     }
     return listaDuplicada;
     console.log(listaDuplicada);
+}
